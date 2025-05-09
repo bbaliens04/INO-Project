@@ -1,3 +1,4 @@
+#This code was wrriten by Mitra Maleki and Bardiya Alian
 import requests
 from PIL import Image
 import matplotlib.pyplot as plt
