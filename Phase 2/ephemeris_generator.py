@@ -1,3 +1,5 @@
+#This code was written by my friend, Mitra Maleki to assist me with the project.
+
 from astroquery.jplhorizons import Horizons
 from datetime import datetime, timedelta
 import sys
